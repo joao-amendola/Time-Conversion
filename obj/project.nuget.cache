@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "W8WyzX9hfNPa3KohcFOdLa1OKSYrOVJSKEs1KuCG5BxFO5LBSlOH78XAYATox+cIekvHcXsmvptsqZHTYYQZ7Q==",
+  "success": true,
+  "projectFilePath": "/home/joao/Documents/programming_projects/Time Conversion/Time Conversion.csproj",
+  "expectedPackageFiles": [
+    "/home/joao/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
